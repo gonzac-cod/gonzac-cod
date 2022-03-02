@@ -1,0 +1,23 @@
+{
+	"name": "gonzac-cod",
+	"version": "1.0.0",
+	"description": "For update github readme",
+	"main": "index.js",
+	"scripts": {
+		"update-readme": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gonzac-cod/gonzac-cod.git"
+	},
+	"author": "Gonzac",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gonzac-cod/gonzac-cod/issues"
+	},
+	"homepage": "https://github.com/gonzac-cod/gonzac-cod#readme",
+	"dependencies": {
+		"rss-parser": "^3.12.0"
+	}
+}
